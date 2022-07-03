@@ -1,0 +1,17 @@
+796e21d85f4a7732aa31433e03e2b2a9 *DESCRIPTION
+96e9f8c522a355451e2f021e15b9c6a0 *NAMESPACE
+b423a85b8ec7904b7c4921f433968709 *R/FTUna.R
+51a51acb3cfea9632d90b80dc1814deb *R/ProxelBE.R
+ae74ab056fd5caa661a9f257fcafe75c *R/TM.R
+4e8ccdef1a3e614cbcc568cb68bdb393 *R/calProb.R
+34fd0133e0e81c3c1df53be39a892143 *R/calageInt.R
+a023dca1a0e3d42b88b2c8da65eb16ac *R/hazard.R
+bd9b3ecd854bbbbf11d25b6cfbacb2b2 *R/nextLevel.R
+a889889927eb0cd2f995508c30f8f299 *README.md
+eacd84a736da7d79d85e860747128711 *man/FTUna.Rd
+d0d24c3aff4941a424202d30cc3cdde4 *man/ProxelBE.Rd
+5a01adb738045f646ab082be66422bb6 *man/TM.Rd
+34c7db4aea3b1193a0eeb40337e6df60 *man/calProb.Rd
+be89854bc29c386c9392694bc99fca42 *man/calageInt.Rd
+78504cb1772393d259b15d49bf5756c4 *man/hazard.Rd
+ae64152c33fea874a28c534426405c62 *man/nextLevel.Rd
